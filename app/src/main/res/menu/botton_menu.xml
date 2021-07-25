@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/ic_baseline_add_circle_outline_24"
+        android:title="Dodaj" />
+    <item
+        android:id="@+id/all"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        android:title="Wydarzenia" />
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="Map" />
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "131430467734",
+    "project_id": "dziejesie-7",
+    "storage_bucket": "dziejesie-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131430467734:android:1ebeba791cbbf985495ab7",
+        "android_client_info": {
+          "package_name": "com.example.dziejesie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131430467734-ju6t3g75dqk39rl8m78smc9505875pao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dziejesie",
+            "certificate_hash": "f4c97a9df150c299a4986eb4cf29d123c492e242"
+          }
+        },
+        {
+          "client_id": "131430467734-k66kmljm9lqsddu1oei2qk4poh3t62jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfyVYCOXn--XNjfkK8IM8LQZImwjLpc90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131430467734-k66kmljm9lqsddu1oei2qk4poh3t62jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
